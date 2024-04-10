@@ -1,0 +1,15 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\bin\Debug\WPF 003.exe.config
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\bin\Debug\WPF 003.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\bin\Debug\WPF 003.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\WPF 003.csproj.AssemblyReference.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\MainWindow.g.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\App.g.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\WPF 003_MarkupCompile.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\WPF 003_MarkupCompile.lref
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\MainWindow.baml
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\WPF 003.g.resources
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\WPF_003.Properties.Resources.resources
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\WPF 003.csproj.GenerateResource.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\WPF 003.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\WPF 003.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\csharp-tutorial\WPF 003\WPF 003\obj\Debug\WPF 003.pdb
