@@ -1,0 +1,15 @@
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\bin\Debug\WPF 008.exe.config
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\bin\Debug\WPF 008.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\bin\Debug\WPF 008.pdb
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\WPF 008.csproj.AssemblyReference.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\MainWindow.g.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\App.g.cs
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\WPF 008_MarkupCompile.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\WPF 008_MarkupCompile.lref
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\MainWindow.baml
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\WPF 008.g.resources
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\WPF_008.Properties.Resources.resources
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\WPF 008.csproj.GenerateResource.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\WPF 008.csproj.CoreCompileInputs.cache
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\WPF 008.exe
+C:\Users\skrll\OneDrive\Masaüstü\personal portfolio\c#-tutorial\wpf-tutorial\wpf-tutorial\WPF 008\WPF 008\obj\Debug\WPF 008.pdb
