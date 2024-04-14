@@ -6,7 +6,25 @@
         xmlns:local="clr-namespace:WPF_010"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <StackPanel>
+        <Label FontWeight="Bold" FontSize="20">Do you like me?</Label>
+        <RadioButton Margin="5" IsChecked="True">
+            <WrapPanel>
+                <Rectangle Fill="Green" Width="16" Height="16"></Rectangle>
+                <TextBlock Text="Yes" Foreground="Green" Margin="5,0,0,0"></TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Margin="5" Checked="RadioButton_Checked">
+            <WrapPanel>
+                <Rectangle Fill="Red" Width="16" Height="16"></Rectangle>
+                <TextBlock Text="No" Foreground="Red" Margin="5,0,0,0"></TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Margin="5">
+            <WrapPanel>
+                <Image Source="C:\Users\skrll\OneDrive\Masaüstü\75.png" Height="32" Width="32"/>
+                <TextBlock Text="Maybe" Foreground="Black" Margin="5,0,0,0"/>
+            </WrapPanel>
+        </RadioButton>
+    </StackPanel>
 </Window>

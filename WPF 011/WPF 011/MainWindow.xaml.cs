@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_010
+namespace WPF_011
 {
     /// <summary>
     /// MainWindow.xaml etkileşim mantığı
@@ -23,11 +23,6 @@ namespace WPF_010
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void RadioButton_Checked(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Please say yes!");
         }
     }
 }
